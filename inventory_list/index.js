@@ -23,3 +23,16 @@ function inventory() {
   }
 
 }
+
+
+// make object
+// const a = new inventory();
+
+// Add item
+// a.add('jeans');
+
+// view List
+// a.items; OR a.getList();
+
+// Remove Item
+// a.remove('jeans');
